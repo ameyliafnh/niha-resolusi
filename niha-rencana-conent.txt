@@ -5,6 +5,7 @@ RENCANA CONTENT NIHA
   * Framework JavaScript
    ^ Vue
    ^ React
+   ^ Angular
 - Struktur Data dasar
   ^ Laravel
 - PHP frameworks
