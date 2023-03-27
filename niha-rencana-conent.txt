@@ -10,4 +10,4 @@ RENCANA CONTENT NIHA
 - PHP frameworks
 - Interview
 - Vlogs
-- Python
+- Python tambah
