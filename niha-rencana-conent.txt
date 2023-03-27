@@ -3,7 +3,10 @@ RENCANA CONTENT NIHA
 - JavaScript
   * ES6
   * Framework JavaScript
+    ^ Angular
+    ^ React
 - Struktur Data dasar
+  ^ Laravel
 - PHP frameworks
 - Interview
 - Vlogs
