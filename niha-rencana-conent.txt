@@ -3,10 +3,11 @@ RENCANA CONTENT NIHA
 - JavaScript
   * ES6
   * Framework JavaScript
-    ^ Vue
-    ^ React
+   ^ Vue
+   ^ React
 - Struktur Data dasar
-- PHP frameworks
   ^ Laravel
+- PHP frameworks
 - Interview
 - Vlogs
+- Python
